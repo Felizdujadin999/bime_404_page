@@ -1,0 +1,39 @@
+.maincontainer{
+    background: #b3b2b2;
+    height: 99.2vh;
+    border: solid 2pt transparent;
+    overflow: hidden;
+}
+.quote-container {
+    /* margin-top: 10rem; */
+    margin-left: 27rem;
+    width: 27rem;
+    height: 15rem;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: white;
+    text-align: center;   
+}
+.quote-text {
+    font-size: 20px;
+    margin-top: 4rem;
+}
+.quote-author {
+    font-style: italic;
+    font-size: 16px;
+}
+.bimedisplay{
+    display: flex;
+    height: 20vh;
+    margin-left: 44%;
+}
+.text-{
+    margin-left: 43%;
+    font-size: larger;
+    color: white;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
